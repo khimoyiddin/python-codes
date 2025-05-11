@@ -93,16 +93,16 @@ davlatlar = {
 
 #### (a**2)x+bx+c=0 ning barcha holatlari
 
-a = float(input("Bririnchi koeffitsiyentning qiymatini kiriting: "))
-b = float(input("Ikkinchi koeffitsiyentning qiymatini kiriting: "))
-c = float(input("Ozod hadning qiymatini kiriting: "))
-d = b**2-4*a*c
-if d>0:
-    print("Bu kvadrat tenglama 2 ta yechimga ega")
-elif d<0:
-    print("Bu kvadrat tenglama yechimga ega emas")
-else:
-    print("Bu kvadrat tenglama bitta yechimga ega")
+# a = float(input("Bririnchi koeffitsiyentning qiymatini kiriting: "))
+# b = float(input("Ikkinchi koeffitsiyentning qiymatini kiriting: "))
+# c = float(input("Ozod hadning qiymatini kiriting: "))
+# d = b**2-4*a*c
+# if d>0:
+#     print("Bu kvadrat tenglama 2 ta yechimga ega")
+# elif d<0:
+#     print("Bu kvadrat tenglama yechimga ega emas")
+# else:
+#     print("Bu kvadrat tenglama bitta yechimga ega")
 
 
 
